@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Agent profiles & sensitive browser databases
+profiles/firefox_agent_profile/
+profiles/*/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.db
+logins.json
+key4.db
+cert9.db
+sessionstore*.jsonlz4
+
+# Mission logs, conversation history, and local dumps
+missions/*/
+state/*.json
+state/*.log
+results/*.png
+results/*.json
+*.log
+
+# Environments & Keys
+.env
+.env.local
+.venv
+env/
+venv/
+
+# Testing & IDE
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
