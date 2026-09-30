@@ -1,5 +1,7 @@
 # Hermes Tri-Agent Orchestrator
 
+[English](README.md) | [Español](README.es.md)
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Playwright](https://img.shields.io/badge/Browser-Playwright%20Firefox-orange.svg)](https://playwright.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
